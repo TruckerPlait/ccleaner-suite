@@ -31,4 +31,4 @@ Yes — it's free to download and use.
 
 ## 🧾 Requirements
 - Windows (64-bit)
-- ~100 MB free space  
+- ~100 MB free space   
